@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zijie's Page"
-description              : "Hello, this is Zijie"
+description              : "Hello, my name is Zijie Lin（林子杰）. I am current an LLM engineer at Alibaba Group."
 repository               : "Enqurance/Enqurance.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ author:
   name             : "Zijie Lin"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "林子杰,[lin˧˥ tsɨ˨˩˦ tɕjɛ˧˥]"
-  location         : "Beijing, China"
-  employer         :
+  location         : "Hangzhou, China"
+  employer         : "Alibaba Group"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QqaZX18AAAAJ&hl=en"
   email            : "lin.zijie@u.nus.edu"
